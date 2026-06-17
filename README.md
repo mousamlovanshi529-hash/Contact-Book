@@ -1,10 +1,10 @@
 # 📒 Contact Book App
 
-## 📌 Project Overview
+## Project Overview
 
 Contact Book App is a simple Python-based application that allows users to manage their contacts efficiently. Users can create, view, update, delete, search, and count contacts through a menu-driven interface.
 
-## 🚀 Features
+## Features
 
 * Add new contacts
 * View existing contacts
@@ -14,7 +14,7 @@ Contact Book App is a simple Python-based application that allows users to manag
 * Count total contacts
 * User-friendly menu interface
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python 3
 * Dictionary Data Structure
@@ -22,7 +22,7 @@ Contact Book App is a simple Python-based application that allows users to manag
 * Conditional Statements
 * User Input/Output
 
-## 📂 Contact Information Stored
+## Contact Information Stored
 
 Each contact contains:
 
@@ -31,7 +31,7 @@ Each contact contains:
 * Email Address
 * Mobile Number
 
-## ▶️ How to Run
+## How to Run
 
 1. Install Python 3 on your system.
 2. Save the program as `contact_book.py`.
@@ -42,7 +42,7 @@ Each contact contains:
 python contact_book.py
 ```
 
-## 📋 Menu Options
+##  Menu Options
 
 1. Create Contact
 2. View Contact
@@ -52,7 +52,7 @@ python contact_book.py
 6. Count Contact
 7. Exit
 
-## 💡 Learning Concepts
+## Learning Concepts
 
 This project helps beginners understand:
 
@@ -62,7 +62,7 @@ This project helps beginners understand:
 * Data Management
 * Menu-Driven Programs
 
-## 🎯 Future Improvements
+## Future Improvements
 
 * File Handling for permanent storage
 * Contact sorting feature
@@ -70,10 +70,10 @@ This project helps beginners understand:
 * Mobile number validation
 * Graphical User Interface (GUI)
 
-## 👨‍💻 Author
+## Author
 
 Mousam Lovanshi
 
-## 📜 License
+## License
 
 This project is created for learning and educational purposes.
